@@ -1,4 +1,4 @@
-# BreakTheMatrix
+# EscapeTheMatrix
 
 This project is an AI conversational assistant that utilizes a combination of conversation chains, retrieval-augmented generation (RAG) chains, and Wikipedia searches to provide relevant and engaging responses to user queries.
 
